@@ -79,6 +79,10 @@ $ gotour
  ** https://www.railstutorial.org/book[Ruby on Rails Tutorial by Michael Hartl]
  ** https://gist.github.com/jendiamond/5a26b531e8e47b4aa638[Rails Girls LA 2016]
 
+=== Data Structures and Algorithms
+ * Github Repo Coding University 
+ ** https://github.com/jwasham/coding-interview-university
+ 
 '''
 
 Want extra coding help? Join our https://learnteachcode.org/slack[Slack group].
